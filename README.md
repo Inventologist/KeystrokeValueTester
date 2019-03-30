@@ -12,3 +12,5 @@ The program is split up in to 2 modes:  RAW and CHAR.  RAW will do what char doe
 Of the 2 modes, RAW is the most useful.
 
 Enjoy!
+
+PS: I have also included a CSV file of all the characters that you would want to use in a menu system. (including non-printable ones). These were all the keys available/useable on a Microsoft Natural Ergonimic Keyboard 4000 v1.0.
