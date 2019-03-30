@@ -1,0 +1,100 @@
+VirtualKeyCode,Character,ControlKeyState,Keydown,Description
+27,,NumLockOn,TRUE,ESC
+65,a,NumLockOn,TRUE,Lowercase a
+66,b,NumLockOn,TRUE,Lowercase b
+67,c,NumLockOn,TRUE,Lowercase c
+68,d,NumLockOn,TRUE,Lowercase d
+69,e,NumLockOn,TRUE,Lowercase e
+70,f,NumLockOn,TRUE,Lowercase f
+71,g,NumLockOn,TRUE,Lowercase g
+72,h,NumLockOn,TRUE,Lowercase h
+73,i,NumLockOn,TRUE,Lowercase i
+74,j,NumLockOn,TRUE,Lowercase j
+75,k,NumLockOn,TRUE,Lowercase k
+76,l,NumLockOn,TRUE,Lowercase l
+77,m,NumLockOn,TRUE,Lowercase m
+78,n,NumLockOn,TRUE,Lowercase n
+79,o,NumLockOn,TRUE,Lowercase o
+80,p,NumLockOn,TRUE,Lowercase p
+82,r,NumLockOn,TRUE,Lowercase r
+83,s,NumLockOn,TRUE,Lowercase s
+84,t,NumLockOn,TRUE,Lowercase t
+85,u,NumLockOn,TRUE,Lowercase u
+86,v,NumLockOn,TRUE,Lowercase v
+87,w,NumLockOn,TRUE,Lowercase w
+88,x,NumLockOn,TRUE,Lowercase x
+89,y,NumLockOn,TRUE,Lowercase y
+90,z,NumLockOn,TRUE,Lowercase z
+65,A,"ShiftPressed,NumLockOn",TRUE,Uppercase A
+66,B,"ShiftPressed,NumLockOn",TRUE,Uppercase B
+67,C,"ShiftPressed,NumLockOn",TRUE,Uppercase C
+68,D,"ShiftPressed,NumLockOn",TRUE,Uppercase D
+69,E,"ShiftPressed,NumLockOn",TRUE,Uppercase E
+70,F,"ShiftPressed,NumLockOn",TRUE,Uppercase F
+71,G,"ShiftPressed,NumLockOn",TRUE,Uppercase G
+72,H,"ShiftPressed,NumLockOn",TRUE,Uppercase H
+73,I,"ShiftPressed,NumLockOn",TRUE,Uppercase I
+74,J,"ShiftPressed,NumLockOn",TRUE,Uppercase J
+75,K,"ShiftPressed,NumLockOn",TRUE,Uppercase K
+76,L,"ShiftPressed,NumLockOn",TRUE,Uppercase L
+77,M,"ShiftPressed,NumLockOn",TRUE,Uppercase M
+78,N,"ShiftPressed,NumLockOn",TRUE,Uppercase N
+79,O,"ShiftPressed,NumLockOn",TRUE,Uppercase O
+80,P,"ShiftPressed,NumLockOn",TRUE,Uppercase P
+82,R,"ShiftPressed,NumLockOn",TRUE,Uppercase R
+83,S,"ShiftPressed,NumLockOn",TRUE,Uppercase S
+84,T,"ShiftPressed,NumLockOn",TRUE,Uppercase T
+85,U,"ShiftPressed,NumLockOn",TRUE,Uppercase U
+86,V,"ShiftPressed,NumLockOn",TRUE,Uppercase V
+87,W,"ShiftPressed,NumLockOn",TRUE,Uppercase W
+88,X,"ShiftPressed,NumLockOn",TRUE,Uppercase X
+89,Y,"ShiftPressed,NumLockOn",TRUE,Uppercase Y
+90,Z,"ShiftPressed,NumLockOn",TRUE,Uppercase Z
+1,~,"ShiftPressed, NumLockOn",TRUE,Tilde
+49,1,NumLockOn,TRUE,NumberRow 1
+50,2,NumLockOn,TRUE,NumberRow 2
+51,3,NumLockOn,TRUE,NumberRow 3
+52,4,NumLockOn,TRUE,NumberRow 4
+53,5,NumLockOn,TRUE,NumberRow 5
+54,6,NumLockOn,TRUE,NumberRow 6
+55,7,NumLockOn,TRUE,NumberRow 7
+56,8,NumLockOn,TRUE,NumberRow 8
+57,9,NumLockOn,TRUE,NumberRow 9
+48,0,NumLockOn,TRUE,NumberRow 0
+189,-,NumLockOn,TRUE,Minus on NumberRow
+187,=,NumLockOn,TRUE,Equals on NumberRow
+49,!,"ShiftPressed, NumLockOn",TRUE,Lowercase !
+50,@,"ShiftPressed, NumLockOn",TRUE,Lowercase @
+51,#,"ShiftPressed, NumLockOn",TRUE,Lowercase #
+52,$,"ShiftPressed, NumLockOn",TRUE,Lowercase $
+53,%,"ShiftPressed, NumLockOn",TRUE,Lowercase %
+54,^,"ShiftPressed, NumLockOn",TRUE,Lowercase ^
+55,&,"ShiftPressed, NumLockOn",TRUE,Lowercase &
+56,*,"ShiftPressed, NumLockOn",TRUE,Lowercase *
+57,(,"ShiftPressed, NumLockOn",TRUE,Open Parenthesis
+48,),"ShiftPressed, NumLockOn",TRUE,Close Parenthesis
+189,_,"ShiftPressed, NumLockOn",TRUE,Underscore
+187,+,"ShiftPressed, NumLockOn",TRUE,Plus Sign on Number Row
+112,,NumLockOn,TRUE,F1
+113,,NumLockOn,TRUE,F2
+114,,NumLockOn,TRUE,F3
+115,,NumLockOn,TRUE,F4
+116,,NumLockOn,TRUE,F5
+117,,NumLockOn,TRUE,F6
+118,,NumLockOn,TRUE,F7
+119,,NumLockOn,TRUE,F8
+120,,NumLockOn,TRUE,F9
+121,,NumLockOn,TRUE,F10
+122,,NumLockOn,TRUE,F11
+123,,NumLockOn,TRUE,F12
+111,/,EnhancedKey,TRUE,Forward Slash on NumPad
+106,*,NumLockOn,TRUE,Asterik
+109,-,NumLockOn,TRUE,Minus
+107,+,NumLockOn,TRUE,Plus on NumPad
+186,;,NumLockOn,TRUE,Semicolon
+190,.,NumLockOn,TRUE,Period
+191,/,NumLockOn,TRUE,Forward Slash
+186,:,"ShiftPressed, NumLockOn",TRUE,Colon
+188,<,"ShiftPressed, NumLockOn",TRUE,Less Than
+190,>,"ShiftPressed, NumLockOn",TRUE,Greater Than
+191,?,"ShiftPressed, NumLockOn",TRUE,Question Mark
